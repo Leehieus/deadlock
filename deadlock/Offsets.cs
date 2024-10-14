@@ -19,7 +19,7 @@ namespace deadlock
         //C_BaseModelEntity
         //C_BasePlayerWeapon
         //CCollisionProperty
-        //CCitadelPlayer_ObserverServices
+        //CCitadelPlayer_ObserverService
     }
 }
 
